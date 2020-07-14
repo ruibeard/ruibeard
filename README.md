@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+## I'm Rui, recently finished my BEng Computer Science with first class 
+
+### Now looking for a software developer position
+
+
+
+- 📫 How to reach me: Iam@ruialmeida.me
+
 <!--
-**rtralmeida/rtralmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
