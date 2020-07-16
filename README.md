@@ -2,13 +2,12 @@
 
 ## I'm Rui, recently finished my BEng Computer Science degree
 
-Now looking for a software developer position.
+**Now looking for a software developer position.**
 
 I'm currently living in Cambridge, UK, but I'm willing to relocate somewhere else.
 
 
-
-**How to reach me**
+How to reach me
 - 📫 [Iam@ruialmeida.me](mailto:Iam@ruialmeida.me)
 - 🌍 [RuiAlmeida.me](https://ruialmeida.me)
 - 🐤 [Twitter](https://twitter.com/ruibeard)
