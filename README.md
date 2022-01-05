@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-## I'm Rui, recently finished my BEng Computer Science degree
 
-**Now looking for a software developer position.**
+**I'm looking for a software developer position.**
 How to reach me
 - 📫 [Iam@ruialmeida.me](mailto:Iam@ruialmeida.me)
 - 🌍 [RuiAlmeida.me](https://ruialmeida.me)
