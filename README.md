@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-**I'm looking for a software developer position.**
+ 
 How to reach me
 - 📫 [Iam@ruialmeida.me](mailto:Iam@ruialmeida.me)
 - 🌍 [RuiAlmeida.me](https://ruialmeida.me)
