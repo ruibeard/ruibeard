@@ -4,7 +4,7 @@
 How to reach me
 - 📫 [Iam@ruialmeida.me](mailto:Iam@ruialmeida.me)
 - 🌍 [RuiAlmeida.me](https://ruialmeida.me)
-- 🐤 [Twitter](https://twitter.com/ruibeard)
+- 🆇 [x](https://x.com/ruibeard)
 
 
 
